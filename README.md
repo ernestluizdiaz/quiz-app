@@ -6,7 +6,7 @@ A complete quiz platform built with **Next.js 14** and **Hono** on **Cloudflare 
 
 -   **Frontend**: [https://quiz-app-nu-cyan-69.vercel.app](https://quiz-app-nu-cyan-69.vercel.app)
 -   **Backend API**: [https://backend.ernestquiz.workers.dev](https://backend.ernestquiz.workers.dev)
--   **Loom Video**: [https://www.loom.com/share/6af47a9b66214920ade5732b295c4012](https://www.loom.com/share/6af47a9b66214920ade5732b295c4012)
+-   **Loom Video**: [https://www.loom.com/share/a04962c2a1e341e79ef16c7ffb7806ee](https://www.loom.com/share/a04962c2a1e341e79ef16c7ffb7806ee)
 
 ## ✨ Features
 
