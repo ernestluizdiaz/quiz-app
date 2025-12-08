@@ -28,7 +28,7 @@ interface GradeResponse {
 	results: GradeResult[];
 }
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8787";
+const API_URL = process.env.NEXT_PUBLIC_API_URL;
 
 export default function QuizClient() {
 	const [questions, setQuestions] = useState<Question[]>([]);

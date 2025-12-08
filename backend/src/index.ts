@@ -9,7 +9,7 @@ const app = new Hono();
 app.use('/*', cors({
   origin: [
     'http://localhost:3000',
-    'https://quiz-app-sage-ten-83.vercel.app',
+    'https://quiz-app-nu-cyan-69.vercel.app',
   ],
   credentials: true,
 }));
