@@ -9,5 +9,6 @@ export const gradeRequestSchema = z.object({
   answers: z.array(answerSchema)
 });
 
-export type AnswerInput = z.infer;
-export type GradeRequest = z.infer;
+// ✅ Correct use of z.infer
+export type AnswerInput = z.infer<typeof answerSchema>;
+export type GradeRequest = z.infer<typeof gradeRequestSchema>;
