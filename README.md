@@ -6,7 +6,7 @@ A complete quiz platform built with **Next.js 14** and **Hono** on **Cloudflare 
 
 -   **Frontend**: [https://quiz-app-nu-cyan-69.vercel.app](https://quiz-app-nu-cyan-69.vercel.app)
 -   **Backend API**: [https://backend.ernestquiz.workers.dev](https://backend.ernestquiz.workers.dev)
--   **Loom Video**: Add link here
+-   **Loom Video**: [https://www.loom.com/share/6af47a9b66214920ade5732b295c4012](https://www.loom.com/share/6af47a9b66214920ade5732b295c4012)
 
 ## ✨ Features
 
@@ -97,6 +97,13 @@ This combination optimizes speed without adding complexity.
 ### 📁 Frontend Architecture: App Router
 
 The project uses **Next.js App Router**, not Pages Router.
+
+### ⚙️ Tools:
+
+-   VsCode
+-   Github
+-   ClaudeAI
+-   Terminal
 
 #### Benefits:
 
